@@ -5,18 +5,17 @@ const Footer = () => {
     <footer>
       <div className="container">
         <div className="banner">
-          <div className="left">ZEESHU</div>
+          <div className="left">Tanishk!</div>
           <div className="right">
-            <p>Z6 Gulshan-e-Maymar, Karachi</p>
-            <p>Open: 05:00 PM - 12:00 AM</p>
+            <p>City Center , Gwalior</p>
           </div>
         </div>
         <div className="banner">
           <div className="left">
-            <p>Developed By CODEWITHZEESHU</p>
+            <p>Developed By Tan!</p>
           </div>
           <div className="right">
-            <p>All Rights Reserved By CodeWithZeeshu.</p>
+            <p>All Rights Reserved!.</p>
           </div>
         </div>
       </div>
